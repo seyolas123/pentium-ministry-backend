@@ -1,0 +1,1 @@
+web: vendor/bin/backend-apache2 public/
