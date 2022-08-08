@@ -1,1 +1,1 @@
-web: vendor/bin/backend-apache2 public/
+web: vendor/bin/pentium-ministry-backend-apache2 public/
